@@ -1,0 +1,5 @@
+name: ArrowHit
+author: MC_Elmo
+main: me.MC_Elmo.ArrowHit
+version: 1.0
+description: Remove Arrows when they hit te ground/player.
